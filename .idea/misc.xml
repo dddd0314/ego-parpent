@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/ego-management" />
+    <file type="web" url="file://$PROJECT_DIR$/ego-portal" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectResources">
+    <resource url=" http://www.springframework.org/schema/aop/spring-aop.xsd" location="$PROJECT_DIR$/../../../LeeCX/MyBatis/第一天/01 资料/10 高级dtd/dtd/spring-aop-4.1.xsd" />
+    <resource url=" http://www.springframework.org/schema/beans/spring-beans.xsd" location="$PROJECT_DIR$/../../../LeeCX/MyBatis/第一天/01 资料/10 高级dtd/dtd/spring-beans-4.1.xsd" />
+    <resource url=" http://www.springframework.org/schema/mvc/spring-mvc.xsd" location="$PROJECT_DIR$/../../../LeeCX/MyBatis/第一天/01 资料/10 高级dtd/dtd/spring-mvc-4.1.xsd" />
+    <resource url="http://mybatis.org/dtd/mybatis-3-mapper.dtd" location="$PROJECT_DIR$/../../../LeeCX/MyBatis/第一天/01 资料/10 高级dtd/dtd/mybatis-3-mapper.dtd" />
+    <resource url="http://www.springframework.org/schema/aop/spring-aop.xsd" location="$PROJECT_DIR$/../../../LeeCX/MyBatis/第一天/01 资料/10 高级dtd/dtd/spring-aop-4.1.xsd" />
+    <resource url="http://www.springframework.org/schema/beans/spring-beans.xsd" location="$PROJECT_DIR$/../../../LeeCX/MyBatis/第一天/01 资料/10 高级dtd/dtd/spring-beans-4.1.xsd" />
+    <resource url="http://www.springframework.org/schema/context/spring-context.xsd" location="$PROJECT_DIR$/../../../LeeCX/MyBatis/第一天/01 资料/10 高级dtd/dtd/spring-context-4.1.xsd" />
+    <resource url="http://www.springframework.org/schema/mvc/spring-mvc.xsd" location="$PROJECT_DIR$/../../../LeeCX/MyBatis/第一天/01 资料/10 高级dtd/dtd/spring-mvc-4.1.xsd" />
+    <resource url="http://www.springframework.org/schema/tx/spring-tx.xsd" location="$PROJECT_DIR$/../../../LeeCX/MyBatis/第一天/01 资料/10 高级dtd/dtd/spring-tx-4.1.xsd" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" project-jdk-name="1.7" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
